@@ -5,7 +5,7 @@
                 <h1>Github Stats</h1>
                 <p></p>
             </div>
-            <img src="https://github-readme-stats.vercel.app/api?username=irull&count_private=true&show_icons=true&theme=radical" />
+            <img src="https://github-readme-stats.vercel.app/api?username=irull&count_private=true&show_icons=true&theme=tokyonight" />
         </div>
 
 <div class="container">
